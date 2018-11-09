@@ -28,6 +28,7 @@ body {
 }
 form   {
     text-align: center;
+    padding-bottom: 30px;
 }
 .holder {
     float: left;
