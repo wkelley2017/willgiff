@@ -1,0 +1,40 @@
+
+
+
+button, div, form, input {
+	margin: 7px;
+}
+
+img {
+	max-width: 180px;
+	max-height: 180px;
+}
+
+label {
+    color:fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/quote-bg-img.jpg");
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: cyan;
+}
+form   {
+    text-align: center;
+}
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+    height: 220px;
+    background-color: mediumseagreen;
+}
